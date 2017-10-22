@@ -1,0 +1,190 @@
+partytemplatesfile version 1
+188
+pt_none none 2 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_rescued_prisoners Rescued_Prisoners 2 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_enemy Enemy 2 0 80 7 -1 -1 -1 -1 -1 -1 
+pt_hero_party Hero_Party 2 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_village_defenders Village_Defenders 6 0 1 7 83 10 20 0 458 0 4 0 -1 -1 -1 -1 
+pt_cattle_herd Cattle_Herd 2814749767106598 0 3 11 24 80 120 0 -1 -1 -1 -1 -1 
+pt_looters Fures 2251799813685257 0 2 312 439 15 50 0 -1 -1 -1 -1 -1 
+pt_manhunters Manhunters 2 0 76 137 452 9 40 0 -1 -1 -1 -1 -1 
+pt_curonians Kursi 562949953421321 0 64 137 252 7 10 0 251 7 10 0 259 7 10 0 260 1 4 0 253 7 10 0 255 7 10 0 
+pt_prussians Pruteni 562949953421321 0 63 137 252 7 10 0 251 7 10 0 259 7 10 0 260 1 4 0 253 7 10 0 255 7 10 0 
+pt_samogitians Zemaiciai 562949953421321 0 65 137 252 7 10 0 251 7 10 0 259 7 10 0 260 1 4 0 253 7 10 0 255 7 10 0 
+pt_yotvingians Jotvingiai 562949953421321 0 62 137 252 7 10 0 251 7 10 0 259 7 10 0 260 1 4 0 253 7 10 0 255 7 10 0 
+pt_welsh Cymry 562949953421321 0 66 137 67 24 31 0 -1 -1 -1 -1 -1 
+pt_guelphs Guelphs 2 0 69 137 339 1 8 0 328 15 30 0 334 10 15 0 331 10 15 0 336 10 15 0 -1 
+pt_ghibellines Ghibellines 2 0 70 137 339 1 4 0 26 10 15 0 27 10 15 0 25 10 15 0 336 10 15 0 -1 
+pt_crusaders Crusaders 96 0 84 137 438 10 25 0 430 150 200 0 27 50 100 0 26 50 100 0 25 50 100 0 28 25 50 0 
+pt_merc_party Angry_band_of_alchoholics 4194306 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_crusader_raiders Crusaders 4194400 0 52 137 339 1 4 0 336 5 10 0 330 10 15 0 331 5 8 0 334 5 15 0 328 1 10 0 
+pt_jihadist_raiders Jihadists 4194311 0 54 137 286 8 20 0 291 5 8 0 288 4 10 0 293 1 3 0 296 10 15 0 -1 
+pt_teutonic_raiders Crusaders 4194400 0 30 137 184 1 3 0 179 2 6 0 173 3 10 0 174 5 10 0 176 10 16 0 180 5 8 0 
+pt_manor Manor 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_farm Farm 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_linen Linen_Workshop 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_salt Salt_Trader 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_furs Hunter 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_iron Iron_Trader 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_silk Silk_Trader 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_iron_mine Iron_Mine 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_salt_mine Salt_Mine 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_weapon Weapon_Smithy 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_armor Armor_Smithy 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_fletchery Fletchery 2098270 0 1 312 3118 1 2 0 -1 -1 -1 -1 -1 
+pt_breeder Horse_Breeder 2098270 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_monastery Monastery 2098270 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_peasant_rebels_euro Peasant_Rebels 6 0 82 137 -1 -1 -1 -1 -1 -1 
+pt_steppe_bandits Sicarii_Orientis 562949953421319 0 2 312 448 15 58 0 -1 -1 -1 -1 -1 
+pt_taiga_bandits Sicarii_Borealis 562949953421321 0 2 312 449 15 58 0 -1 -1 -1 -1 -1 
+pt_desert_bandits Sicarii_Vasti 562949953421315 0 2 312 450 15 58 0 -1 -1 -1 -1 -1 
+pt_forest_bandits Silvae_Sicarii 562949953421321 0 2 312 446 15 52 0 -1 -1 -1 -1 -1 
+pt_mountain_bandits Montes_Sicarii 562949953421321 0 2 312 445 15 60 0 -1 -1 -1 -1 -1 
+pt_sea_raiders Piratae 562949953421321 0 2 312 447 20 50 0 -1 -1 -1 -1 -1 
+pt_robber_knights Roving_Robber_Knight_Band 2251799813685257 0 2 312 438 1 2 0 440 5 12 0 -1 -1 -1 -1 
+pt_deserters Deserti 844424930131971 0 77 312 -1 -1 -1 -1 -1 -1 
+pt_merchant_caravan Merchant_Caravan 5629499534606338 0 1 11 459 1 1 0 28 5 15 0 -1 -1 -1 -1 
+pt_troublesome_bandits Troublesome_Bandits 2533274790658057 0 2 312 443 14 55 0 -1 -1 -1 -1 -1 
+pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790789129 0 3 312 443 24 58 0 460 1 1 1 -1 -1 -1 -1 
+pt_kidnapped_girl Kidnapped_Girl 262154 0 3 7 460 1 1 0 -1 -1 -1 -1 -1 
+pt_village_farmers Village_Farmers 67108870 0 4 7 83 8 18 0 -1 -1 -1 -1 -1 
+pt_spy_partners Unremarkable_Travellers 844424930459650 0 3 7 2995 1 1 0 28 5 11 0 -1 -1 -1 -1 
+pt_runaway_serfs Runaway_Serfs 2251799814012934 0 3 7 83 6 7 0 458 3 3 0 -1 -1 -1 -1 
+pt_spy Ordinary_Townsman 844424930459650 0 3 7 2994 1 1 0 -1 -1 -1 -1 -1 
+pt_sacrificed_messenger Sacrificed_Messenger 844424930459650 0 3 7 -1 -1 -1 -1 -1 -1 
+pt_forager_party Foraging_Party 1407374887747586 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_scout_party Scouts 281474980904962 0 1 312 -1 -1 -1 -1 -1 -1 
+pt_patrol_party Custodes 562949957615618 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_messenger_party Messenger 4194306 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_raider_party Raiders 4503599627632642 0 1 312 -1 -1 -1 -1 -1 -1 
+pt_raider_captives Raider_Captives 0 0 1 0 458 6 30 1 -1 -1 -1 -1 -1 
+pt_kingdom_caravan_party Caravan 12666373956173861 0 1 7 459 1 1 0 28 1 8 0 -1 -1 -1 -1 
+pt_prisoner_train_party Prisoner_Train 1407374887747586 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_default_prisoners Default_Prisoners 0 0 1 0 443 5 10 1 -1 -1 -1 -1 -1 
+pt_routed_warriors Routed_Enemies 3 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_center_reinforcements Reinforcements 4503599627370505 0 1 137 25 9 50 0 -1 -1 -1 -1 -1 
+pt_kingdom_hero_party War_Party 4259844 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_kingdom_teutonic_reinforcements_a {!}kingdom_teutonic_reinforcements_a 0 0 30 137 182 1 3 0 169 4 9 0 175 4 9 0 -1 -1 -1 
+pt_kingdom_teutonic_reinforcements_b {!}kingdom_teutonic_reinforcements_b 0 0 30 137 179 2 6 0 173 1 3 0 170 1 3 0 176 1 3 0 -1 -1 
+pt_kingdom_teutonic_reinforcements_c {!}kingdom_teutonic_reinforcements_c 0 0 30 137 185 3 6 0 -1 -1 -1 -1 -1 
+pt_kingdom_baltic_reinforcements_a {!}kingdom_baltic_reinforcements_a 0 0 31 137 261 1 3 0 252 4 10 0 251 4 8 0 -1 -1 -1 
+pt_kingdom_baltic_reinforcements_b {!}kingdom_baltic_reinforcements_b 0 0 31 137 257 1 3 0 259 1 3 0 260 1 3 0 253 1 3 0 255 1 3 0 265 1 3 0 
+pt_kingdom_baltic_reinforcements_c {!}kingdom_baltic_reinforcements_c 0 0 31 137 264 1 2 0 267 1 3 0 -1 -1 -1 -1 
+pt_kingdom_mongol_reinforcements_a {!}kingdom_mongol_reinforcements_a 0 0 32 137 187 5 14 0 186 3 7 0 -1 -1 -1 -1 
+pt_kingdom_mongol_reinforcements_b {!}kingdom_mongol_reinforcements_b 0 0 32 137 189 3 8 0 188 1 5 0 191 1 2 0 -1 -1 -1 
+pt_kingdom_mongol_reinforcements_c {!}kingdom_mongol_reinforcements_c 0 0 32 137 190 1 2 0 192 1 1 0 -1 -1 -1 -1 
+pt_kingdom_nordic_reinforcements_a {!}kingdom_nordic_reinforcements_a 0 0 33 137 231 5 12 0 232 6 9 0 -1 -1 -1 -1 
+pt_kingdom_nordic_reinforcements_b {!}kingdom_nordic_reinforcements_b 0 0 33 137 243 1 2 0 240 1 3 0 234 1 3 0 238 1 3 0 237 1 3 0 -1 
+pt_kingdom_nordic_reinforcements_c {!}kingdom_nordic_reinforcements_c 0 0 33 137 248 1 2 0 233 2 3 0 -1 -1 -1 -1 
+pt_kingdom_western_reinforcements_a {!}kingdom_western_reinforcements_a 0 0 34 137 435 3 7 0 423 3 7 0 422 3 7 0 -1 -1 -1 
+pt_kingdom_western_reinforcements_b {!}kingdom_western_reinforcements_b 0 0 34 137 425 1 3 0 427 1 3 0 433 1 3 0 431 1 3 0 430 1 3 0 -1 
+pt_kingdom_western_reinforcements_c {!}kingdom_western_reinforcements_c 0 0 34 137 436 2 5 0 -1 -1 -1 -1 -1 
+pt_kingdom_rus_reinforcements_a {!}kingdom_rus_reinforcements_a 0 0 37 137 227 1 3 0 216 6 13 0 223 2 5 0 -1 -1 -1 
+pt_kingdom_rus_reinforcements_b {!}kingdom_rus_reinforcements_b 0 0 37 137 221 2 6 0 218 1 3 0 226 1 3 0 225 1 3 0 -1 -1 
+pt_kingdom_rus_reinforcements_c {!}kingdom_rus_reinforcements_c 0 0 37 137 228 1 2 0 230 1 3 0 -1 -1 -1 -1 
+pt_kingdom_scot_reinforcements_a {!}kingdom_scot_reinforcements_a 0 0 41 137 435 1 3 0 416 4 9 0 422 4 9 0 -1 -1 -1 
+pt_kingdom_scot_reinforcements_b {!}kingdom_scot_reinforcements_b 0 0 41 137 425 1 3 0 427 1 3 0 419 1 3 0 430 1 3 0 418 1 3 0 -1 
+pt_kingdom_scot_reinforcements_c {!}kingdom_scot_reinforcements_c 0 0 41 137 436 2 5 0 -1 -1 -1 -1 -1 
+pt_kingdom_gaelic_reinforcements_a {!}kingdom_gaelic_reinforcements_a 0 0 42 137 388 1 3 0 379 4 9 0 379 4 9 0 -1 -1 -1 
+pt_kingdom_gaelic_reinforcements_b {!}kingdom_gaelic_reinforcements_b 0 0 42 137 386 1 3 0 387 1 3 0 383 1 3 0 385 1 3 0 58 1 3 0 -1 
+pt_kingdom_gaelic_reinforcements_c {!}kingdom_gaelic_reinforcements_c 0 0 42 137 391 2 5 0 -1 -1 -1 -1 -1 
+pt_kingdom_iberain_reinforcements_a {!}kingdom_iberain_reinforcements_a 0 0 45 137 336 1 3 0 322 4 9 0 323 4 9 0 -1 -1 -1 
+pt_kingdom_iberain_reinforcements_b {!}kingdom_iberain_reinforcements_b 0 0 45 137 325 1 3 0 334 1 3 0 328 1 3 0 332 1 3 0 331 1 3 0 -1 
+pt_kingdom_iberain_reinforcements_c {!}kingdom_iberain_reinforcements_c 0 0 45 137 339 2 5 0 -1 -1 -1 -1 -1 
+pt_kingdom_italian_reinforcements_a {!}kingdom_italian_reinforcements_a 0 0 69 137 355 1 3 0 340 4 9 0 341 4 9 0 -1 -1 -1 
+pt_kingdom_italian_reinforcements_b {!}kingdom_italian_reinforcements_b 0 0 69 137 343 1 3 0 353 1 3 0 346 1 3 0 332 1 3 0 350 1 3 0 -1 
+pt_kingdom_italian_reinforcements_c {!}kingdom_italian_reinforcements_c 0 0 69 137 358 2 5 0 -1 -1 -1 -1 -1 
+pt_kingdom_andalus_reinforcements_a {!}kingdom_andalus_reinforcements_a 0 0 49 137 359 13 32 0 -1 -1 -1 -1 -1 
+pt_kingdom_andalus_reinforcements_b {!}kingdom_andalus_reinforcements_b 0 0 49 137 369 2 5 0 370 2 5 0 372 3 12 0 -1 -1 -1 
+pt_kingdom_andalus_reinforcements_c {!}kingdom_andalus_reinforcements_c 0 0 49 137 378 2 5 0 -1 -1 -1 -1 -1 
+pt_kingdom_byzantium_reinforcements_a {!}kingdom_byzantium_reinforcements_a 0 0 51 137 317 1 3 0 305 4 9 0 311 4 9 0 -1 -1 -1 
+pt_kingdom_byzantium_reinforcements_b {!}kingdom_byzantium_reinforcements_b 0 0 51 137 307 1 3 0 309 1 3 0 313 2 6 0 315 1 3 0 -1 -1 
+pt_kingdom_byzantium_reinforcements_c {!}kingdom_byzantium_reinforcements_c 0 0 51 137 320 2 5 0 -1 -1 -1 -1 -1 
+pt_kingdom_mamluke_reinforcements_a {!}kingdom_mamluke_reinforcements_a 0 0 54 137 290 4 9 0 295 1 3 0 285 4 9 0 295 0 1 0 -1 -1 
+pt_kingdom_mamluke_reinforcements_b {!}kingdom_mamluke_reinforcements_b 0 0 54 137 286 1 3 0 291 1 3 0 288 1 3 0 293 1 3 0 296 1 3 0 -1 
+pt_kingdom_mamluke_reinforcements_c {!}kingdom_mamluke_reinforcements_c 0 0 54 137 297 2 5 0 -1 -1 -1 -1 -1 
+pt_kingdom_marinid_reinforcements_a {!}kingdom_marinid_reinforcements_a 0 0 57 137 268 13 32 0 -1 -1 -1 -1 -1 
+pt_kingdom_marinid_reinforcements_b {!}kingdom_marinid_reinforcements_b 0 0 57 137 270 2 5 0 272 2 5 0 283 3 12 0 -1 -1 -1 
+pt_kingdom_marinid_reinforcements_c {!}kingdom_marinid_reinforcements_c 0 0 57 137 283 3 6 0 283 3 6 0 -1 -1 -1 -1 
+pt_kingdom_serbian_reinforcements_a {!}kingdom_serbian_reinforcements_a 0 0 58 137 155 1 6 0 142 6 11 0 151 2 4 0 -1 -1 -1 
+pt_kingdom_serbian_reinforcements_b {!}kingdom_serbian_reinforcements_b 0 0 58 137 149 2 6 0 144 1 3 0 150 1 3 0 147 1 3 0 144 1 3 0 -1 
+pt_kingdom_serbian_reinforcements_c {!}kingdom_serbian_reinforcements_c 0 0 58 137 156 1 2 0 158 1 3 0 -1 -1 -1 -1 
+pt_kingdom_balkan_reinforcements_a {!}kingdom_balkan_reinforcements_a 0 0 59 137 212 1 3 0 197 2 7 0 205 6 11 0 -1 -1 -1 
+pt_kingdom_balkan_reinforcements_b {!}kingdom_balkan_reinforcements_b 0 0 59 137 202 2 6 0 199 1 3 0 207 1 3 0 210 1 3 0 -1 -1 
+pt_kingdom_balkan_reinforcements_c {!}kingdom_balkan_reinforcements_c 0 0 59 137 213 1 2 0 215 1 3 0 -1 -1 -1 -1 
+pt_kingdom_welsh_reinforcements_a {!}kingdom_welsh_reinforcements_a 0 0 66 137 165 1 2 0 159 5 10 0 161 4 9 0 -1 -1 -1 
+pt_kingdom_welsh_reinforcements_b {!}kingdom_welsh_reinforcements_b 0 0 66 137 162 3 6 0 166 1 1 0 163 1 2 0 164 1 2 0 161 1 2 0 -1 
+pt_kingdom_welsh_reinforcements_c {!}kingdom_welsh_reinforcements_c 0 0 66 137 162 1 2 0 168 1 3 0 -1 -1 -1 -1 
+pt_steppe_bandit_lair Steppe_Bandit_Lair 562949955519595 0 3 312 448 15 58 0 -1 -1 -1 -1 -1 
+pt_taiga_bandit_lair Tundra_Bandit_Lair 562949955519595 0 3 312 449 15 58 0 -1 -1 -1 -1 -1 
+pt_desert_bandit_lair Desert_Bandit_Lair 562949955519595 0 3 312 450 15 58 0 -1 -1 -1 -1 -1 
+pt_forest_bandit_lair Forest_Bandit_Camp 562949955519595 0 3 312 446 15 58 0 -1 -1 -1 -1 -1 
+pt_mountain_bandit_lair Highway_Bandit_Hideout 562949955519595 0 3 312 445 15 58 0 -1 -1 -1 -1 -1 
+pt_sea_raider_lair Sea_Raider_Landing 562949955519595 0 3 312 447 15 50 0 -1 -1 -1 -1 -1 
+pt_robber_knight_lair Robber_Knight's_Hideout 562949955519595 0 3 312 438 1 1 0 440 15 25 0 -1 -1 -1 -1 
+pt_looter_lair Kidnappers'_Hideout 562949955519595 0 3 312 439 15 25 0 -1 -1 -1 -1 -1 
+pt_bandit_lair_templates_end {!}bandit_lair_templates_end 562949953422345 0 2 312 447 15 50 0 -1 -1 -1 -1 -1 
+pt_leaded_looters Band_of_robbers 2251799813947401 0 3 312 3101 1 1 0 439 3 3 0 -1 -1 -1 -1 
+pt_pagan_stronghold Pagan_Stronghold 562949955519595 0 3 312 252 5 7 0 251 5 7 0 259 5 7 0 260 1 3 0 253 5 7 0 255 5 7 0 
+pt_dplmc_spouse Your_spouse 71303178 0 3 7 -1 -1 -1 -1 -1 -1 
+pt_dplmc_gift_caravan Your_Caravan 7036874421960741 0 1 11 459 1 1 0 28 10 35 0 -1 -1 -1 -1 
+pt_dplmc_recruiter Recruiter 4194306 0 3 7 3109 1 1 0 -1 -1 -1 -1 -1 
+pt_crusaders_teutonic {!}crusaders_teutonic 0 0 52 137 184 1 6 0 185 1 3 0 -1 -1 -1 -1 
+pt_crusaders_templar {!}crusaders_templar 0 0 52 137 85 1 6 0 86 1 3 0 -1 -1 -1 -1 
+pt_crusaders_hospitaller {!}crusaders_hospitaller 0 0 52 137 87 1 6 0 88 1 3 0 -1 -1 -1 -1 
+pt_crusaders_lazarus {!}crusaders_lazarus 0 0 52 137 89 1 6 0 90 1 3 0 -1 -1 -1 -1 
+pt_crusaders_santiago {!}crusaders_santiago 0 0 52 137 91 1 6 0 92 1 3 0 -1 -1 -1 -1 
+pt_crusaders_calatrava {!}crusaders_calatrava 0 0 52 137 93 1 6 0 94 1 3 0 -1 -1 -1 -1 
+pt_crusaders_saint_thomas {!}crusaders_saint_thomas 0 0 52 137 95 1 6 0 96 1 3 0 -1 -1 -1 -1 
+pt_teutonic_reinforcements_a {!}teutonic_reinforcements_a 0 0 52 137 182 1 3 0 169 4 9 0 175 4 9 0 -1 -1 -1 
+pt_teutonic_reinforcements_b {!}teutonic_reinforcements_b 0 0 52 137 179 2 6 0 173 1 3 0 170 1 3 0 176 1 3 0 -1 -1 
+pt_teutonic_reinforcements_c {!}teutonic_reinforcements_c 0 0 52 137 185 3 6 0 -1 -1 -1 -1 -1 
+pt_templar_reinforcements_a {!}templar_reinforcements_a 0 0 52 137 84 1 3 0 322 4 9 0 323 4 9 0 -1 -1 -1 
+pt_templar_reinforcements_b {!}templar_reinforcements_b 0 0 52 137 325 1 3 0 334 1 3 0 328 1 3 0 332 1 3 0 331 1 3 0 -1 
+pt_templar_reinforcements_c {!}templar_reinforcements_c 0 0 52 137 86 3 6 0 -1 -1 -1 -1 -1 
+pt_hospitaller_reinforcements_a {!}hospitaller_reinforcements_a 0 0 52 137 84 1 3 0 322 4 9 0 323 4 9 0 -1 -1 -1 
+pt_hospitaller_reinforcements_b {!}hospitaller_reinforcements_b 0 0 52 137 325 1 3 0 334 1 3 0 328 1 3 0 332 1 3 0 331 1 3 0 -1 
+pt_hospitaller_reinforcements_c {!}hospitaller_reinforcements_c 0 0 52 137 88 3 6 0 -1 -1 -1 -1 -1 
+pt_kingdom_21_reinforcements_a {!}kingdom_21_reinforcements_a 0 0 50 137 435 1 3 0 423 4 9 0 422 4 9 0 -1 -1 -1 
+pt_kingdom_21_reinforcements_b {!}kingdom_21_reinforcements_b 0 0 50 137 425 1 3 0 427 1 3 0 433 1 3 0 431 1 3 0 430 1 3 0 -1 
+pt_kingdom_21_reinforcements_c {!}kingdom_21_reinforcements_c 0 0 50 137 436 2 5 0 -1 -1 -1 -1 -1 
+pt_roman_reinforcements_a {!}roman_reinforcements_a 0 0 51 137 317 1 3 0 305 4 9 0 311 4 9 0 -1 -1 -1 
+pt_roman_reinforcements_b {!}roman_reinforcements_b 0 0 51 137 307 1 3 0 309 1 3 0 313 2 6 0 315 1 3 0 -1 -1 
+pt_roman_reinforcements_c {!}roman_reinforcements_c 0 0 51 137 318 1 2 0 320 2 3 0 97 1 5 0 -1 -1 -1 
+pt_armenian_reinforcements_c {!}armenian_reinforcements_c 0 0 52 137 415 2 5 0 -1 -1 -1 -1 -1 
+pt_seljuk_reinforcements_c {!}seljuk_reinforcements_c 0 0 56 137 412 2 5 0 -1 -1 -1 -1 -1 
+pt_almogabar {!}Lance 0 0 3 137 40 20 20 0 -1 -1 -1 -1 -1 
+pt_welsh_merc {!}Lance 0 0 3 137 67 20 25 0 68 1 5 0 -1 -1 -1 -1 
+pt_sicilian_merc_1 {!}Lance 0 0 3 137 73 5 5 0 72 15 15 0 -1 -1 -1 -1 
+pt_sicilian_merc_2 {!}Lance 0 0 3 137 71 5 5 0 70 15 15 0 -1 -1 -1 -1 
+pt_sicilian_merc_3 {!}Lance 0 0 3 137 75 5 5 0 74 15 15 0 -1 -1 -1 -1 
+pt_zanata_merc {!}Lance 0 0 3 137 39 10 10 0 37 10 10 0 38 10 10 0 -1 -1 -1 
+pt_generic_euro {!}Company 0 0 3 137 25 12 15 0 26 5 7 0 27 6 10 0 28 3 7 0 -1 -1 
+pt_generic_balt {!}Company 0 0 3 137 29 12 15 0 30 5 7 0 31 6 10 0 32 3 7 0 -1 -1 
+pt_generic_maghreb {!}Company 0 0 3 137 37 14 23 0 38 6 10 0 39 3 7 0 -1 -1 -1 
+pt_generic_rus {!}Company 0 0 3 137 41 12 15 0 42 5 7 0 43 6 10 0 44 3 7 0 -1 -1 
+pt_generic_latin {!}Company 0 0 3 137 45 10 13 0 46 4 6 0 47 5 8 0 48 2 5 0 49 7 12 0 -1 
+pt_generic_balkan {!}Company 0 0 3 137 50 12 15 0 51 5 7 0 52 6 10 0 53 3 7 0 -1 -1 
+pt_generic_scan {!}Company 0 0 3 137 54 12 15 0 55 5 7 0 56 6 10 0 57 3 7 0 -1 -1 
+pt_generic_gaelic {!}Company 0 0 3 137 58 12 15 0 59 5 7 0 60 6 10 0 61 3 7 0 -1 -1 
+pt_generic_mamluk {!}Company 0 0 3 137 33 12 15 0 34 7 10 0 35 5 7 0 36 3 7 0 -1 -1 
+pt_company_genoese {!}Company 0 0 3 137 62 25 32 0 63 1 5 0 -1 -1 -1 -1 
+pt_company_brabantine {!}Company 0 0 3 137 64 12 15 0 66 4 7 0 65 6 10 0 -1 -1 -1 
+pt_company_welsh {!}Company 0 0 3 137 67 12 15 0 69 10 15 0 68 1 3 0 -1 -1 -1 
+pt_company_mamlukes {!}Company 0 0 3 137 299 5 8 0 300 2 3 0 301 1 3 0 -1 -1 -1 
+pt_company_sicily {!}Company 0 0 3 137 72 12 15 0 73 4 7 0 70 6 10 0 71 1 5 0 74 1 5 0 75 1 5 0 
+pt_company_cuman {!}Company 0 0 3 137 77 12 15 0 78 4 7 0 79 6 10 0 80 3 7 0 81 1 3 0 82 1 3 0 
+pt_company_georgian {!}Company 0 0 3 137 98 12 18 0 99 10 18 0 -1 -1 -1 -1 
+pt_company_turkopoles {!}Company 0 0 3 137 84 18 32 0 -1 -1 -1 -1 -1 
+pt_company_varangian {!}Company 0 0 3 137 97 18 32 0 -1 -1 -1 -1 -1 
+pt_company_kwarezmian {!}Company 0 0 3 137 101 12 15 0 102 10 18 0 103 6 8 0 -1 -1 -1 
+pt_company_mordovian {!}Company 0 0 3 137 104 12 18 0 105 4 7 0 106 6 10 0 -1 -1 -1 
+pt_company_kipchak {!}Company 0 0 3 137 107 10 15 0 108 5 9 0 109 5 7 0 -1 -1 -1 
+pt_company_teutons {!}Company 0 0 3 137 184 1 6 0 185 1 2 0 -1 -1 -1 -1 
+pt_company_hospitalier {!}Company 0 0 3 137 87 1 6 0 88 1 2 0 -1 -1 -1 -1 
+pt_company_templar {!}Company 0 0 3 137 85 1 6 0 86 1 2 0 -1 -1 -1 -1 
+pt_company_lazarus {!}Company 0 0 3 137 89 1 6 0 90 1 2 0 -1 -1 -1 -1 
+pt_company_santiago {!}Company 0 0 3 137 91 1 6 0 92 1 2 0 -1 -1 -1 -1 
+pt_company_calatrava {!}Company 0 0 3 137 93 1 6 0 94 1 2 0 -1 -1 -1 -1 
+pt_company_thomas {!}Company 0 0 3 137 95 1 6 0 96 1 2 0 -1 -1 -1 -1 
+pt_mongolian_camp Mongolian_horde 1407374887747591 0 1 137 190 1 2 0 192 1 1 0 187 10 14 0 186 8 13 0 -1 -1 
